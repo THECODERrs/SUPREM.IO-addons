@@ -2,6 +2,12 @@
 
 A collection of SUPREM themed userscripts designed for SUPREM.IO. This repository provides an information overlay and a custom private match utility. 
 
+Click here to add the SUPREM custom match creator
+https://github.com/THECODERrs/SUPREM.IO-addons/raw/refs/heads/main/Suprem%20Custom%20Match%20Maker-1.3.0.user.js
+
+Click here to add the SUPREM info addon
+
+
 ## Features
 
 ### Custom Private Match Code Maker
