@@ -36,3 +36,6 @@ To run these scripts, you will need a userscript manager extension installed in 
 
 ADDITIONAL NOTES:
 I am currently adding support for all proxies, so it works on every SUPREM.IO link.
+
+<img width="407" height="395" alt="image" src="https://github.com/user-attachments/assets/3f6d7131-2af1-4d46-a016-dc9f30e07b27" />
+(This is the match making addon, and it is functional)
