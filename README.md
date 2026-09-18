@@ -6,7 +6,7 @@ Click here to add the SUPREM custom match creator
 https://github.com/THECODERrs/SUPREM.IO-addons/raw/refs/heads/main/Suprem%20Custom%20Match%20Maker-1.3.0.user.js
 
 Click here to add the SUPREM info addon
-
+https://github.com/THECODERrs/SUPREM.IO-addons/raw/refs/heads/main/Suprem%20Info%20HUD-1.1.3.user.js
 
 ## Features
 
